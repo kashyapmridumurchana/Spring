@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bridgelabz.springlogin</groupId>
+  <artifactId>SpringRestExample</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190130065528</lastUpdated>
+  </versioning>
+</metadata>
